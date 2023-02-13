@@ -18,14 +18,30 @@
 
 ## Contents
 
+- [AI](#AI)
+- [Automations](#Automations)
+- [Draw](#Draw)
 - [Editors](#Editors)
+
+## AI
+
+- [chatgpt](https://chat.openai.com/) - 🔥 Great ChatGPT.
+
+## Automations
+
+- [n8n.io](https://n8n.io) - Build complex automations 10x faster, without fighting APIs.
+- [automa](https://www.automa.site/) - Automate your browser by connecting blocks.
+
+## Draw
+
+- [excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 ## Editors
 
 - [obisidian](https://obsidian.md) - a powerful and extensible knowledge base that works on top of your local folder of plain text files.
-- [Yuque](https://www.yuque.com) - 数字后花园
-- [Notion](https://www.notion.so) - Block Editor 鼻祖
-- [我来](https://wolai.com) - 国内的 Notion 最佳替代品
+- [yuque](https://www.yuque.com) - 数字后花园。
+- [notion](https://www.notion.so) - Block Editor 鼻祖。
+- [我来](https://wolai.com) - 国内的 Notion 最佳替代品。
 
 ## License
 
