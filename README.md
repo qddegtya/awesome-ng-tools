@@ -2,6 +2,7 @@
 
 <h1 align="center">
   <img src="media/logo.png" alt="cf">
+  <br>
 </h1>
 
 <p align="center">
