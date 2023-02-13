@@ -3,7 +3,6 @@
 <h1 align="center">
   <img src="media/logo.png" alt="Tools">
   <br>
-  <br>
 </h1>
 
 <p align="center">
