@@ -1,13 +1,7 @@
 # Awesome Next-Generation Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<br>
-
 <h1 align="center">
-  <br>
-	<img src="media/logo.png" alt="cf">
-  <br>
-  <br>
-  <br>
+  <img src="media/logo.png" alt="cf">
 </h1>
 
 <p align="center">
