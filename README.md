@@ -33,6 +33,7 @@
 
 ## Draw
 
+- [miro](https://miro.com/) - Take ideas from better to best.
 - [excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 ## Editors
@@ -41,6 +42,7 @@
 - [yuque](https://www.yuque.com) - 数字后花园。
 - [notion](https://www.notion.so) - Block Editor 鼻祖。
 - [我来](https://wolai.com) - 国内的 Notion 最佳替代品。
+- [AFFiNE](https://affine.pro/) - Affine is the next-generation collaborative knowledge base for professionals.
 
 ## License
 
