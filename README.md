@@ -25,6 +25,7 @@
 ## AI
 
 - [chatgpt](https://chat.openai.com/) - 🔥 Great ChatGPT.
+- [midjourney](https://www.midjourney.com/) - 🔥 An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 
 ## Automations
 
@@ -35,6 +36,7 @@
 
 - [miro](https://miro.com/) - Take ideas from better to best.
 - [excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams.
+- [draw.io](https://app.diagrams.net/) - Security-first diagramming for teams.
 
 ## Editors
 
