@@ -49,7 +49,7 @@
 
 ## Creative
 
-- [nodes.io] https://nodes.io
+- [nodes.io](https://nodes.io) - Nodes is your thinking space for exploring ideas with code.
 
 ## License
 
