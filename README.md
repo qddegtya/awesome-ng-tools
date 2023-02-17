@@ -22,6 +22,7 @@
 - [Draw](#Draw)
 - [Editors](#Editors)
 - [Creative](#Creative)
+- [Multimedia](#Multimedia)
 
 ## AI
 
@@ -50,6 +51,10 @@
 ## Creative
 
 - [nodes.io](https://nodes.io) - Nodes is your thinking space for exploring ideas with code.
+
+## Multimedia
+
+- [OBS Studio](https://obsproject.com/) - Free and open source software for live streaming and screen recording.
 
 ## License
 
