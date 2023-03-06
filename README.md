@@ -28,6 +28,7 @@
 
 - [chatgpt](https://chat.openai.com/) - 🔥 Great ChatGPT.
 - [midjourney](https://www.midjourney.com/) - 🔥 An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
+- [phind](https://www.phind.com/) - The AI search engine for developers.
 
 ## Automations
 
