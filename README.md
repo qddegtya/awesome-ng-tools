@@ -48,7 +48,7 @@
 
 ## Developer
 
--[Fig](https://fig.io/) - The next-generation command line.
+- [Fig](https://fig.io/) - The next-generation command line.
 
 ## Editors
 
