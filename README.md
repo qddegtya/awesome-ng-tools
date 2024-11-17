@@ -31,6 +31,7 @@
 - [chatgpt](https://chat.openai.com/) - 🔥 Great ChatGPT.
 - [midjourney](https://www.midjourney.com/) - 🔥 An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [phind](https://www.phind.com/) - The AI search engine for developers.
+- [Claude](https://www.anthropic.com/claude) - Claude is AI for all of us. Whether you're brainstorming alone or building with a team of thousands, Claude is here to help.
 
 ## Automations
 
