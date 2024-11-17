@@ -24,6 +24,7 @@
 - [Developer](#Developer)
 - [Editors](#Editors)
 - [Multimedia](#Multimedia)
+- [Information-Ingestion](#Information-Ingestion)
 
 ## AI
 
@@ -61,6 +62,12 @@
 ## Multimedia
 
 - [OBS Studio](https://obsproject.com/) - Free and open source software for live streaming and screen recording.
+
+## Information-Ingestion
+
+- [Inoreader](https://www.inoreader.com/) - With Inoreader, information comes straight to you the minute it's available.
+- [Raindrop](https://raindrop.io/) - Intuitive. Powerful. Runs everywhere.
+- [Readwise](https://readwise.io/) - Readwise makes it easy to revisit and learn from your ebook & article highlights.
 
 ## License
 
