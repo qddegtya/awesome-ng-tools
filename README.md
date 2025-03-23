@@ -15,10 +15,10 @@
 <br>
 </p>
 
-## Contents
+## Catalogs
 
 - [Awesome Next-Generation Tools ](#awesome-next-generation-tools-)
-  - [Contents](#contents)
+  - [Catalogs](#catalogs)
   - [AI](#ai)
   - [Automations](#automations)
   - [Creative](#creative)
