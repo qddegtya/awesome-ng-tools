@@ -17,14 +17,17 @@
 
 ## Contents
 
-- [AI](#AI)
-- [Automations](#Automations)
-- [Creative](#Creative)
-- [Draw](#Draw)
-- [Developer](#Developer)
-- [Editors](#Editors)
-- [Multimedia](#Multimedia)
-- [Information-Ingestion](#Information-Ingestion)
+- [Awesome Next-Generation Tools ](#awesome-next-generation-tools-)
+  - [Contents](#contents)
+  - [AI](#ai)
+  - [Automations](#automations)
+  - [Creative](#creative)
+  - [Draw](#draw)
+  - [Developer](#developer)
+  - [Editors](#editors)
+  - [Multimedia](#multimedia)
+  - [Information-Ingestion](#information-ingestion)
+  - [License](#license)
 
 ## AI
 
@@ -32,11 +35,13 @@
 - [midjourney](https://www.midjourney.com/) - 🔥 An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [phind](https://www.phind.com/) - The AI search engine for developers.
 - [Claude](https://www.anthropic.com/claude) - Claude is AI for all of us. Whether you're brainstorming alone or building with a team of thousands, Claude is here to help.
+- [Manus](https://manus.im/) - Less structure, more intelligence.
 
 ## Automations
 
 - [n8n.io](https://n8n.io) - Build complex automations 10x faster, without fighting APIs.
 - [automa](https://www.automa.site/) - Automate your browser by connecting blocks.
+- [Albato](https://albato.com/) - Automate it with no-code.
 
 ## Creative
 
